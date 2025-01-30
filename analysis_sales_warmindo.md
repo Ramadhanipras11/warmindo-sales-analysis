@@ -1,0 +1,1 @@
+Anda dapat melihat analisis penjualan di warmindo secara lengkap pada link berikut : https://medium.com/@ramadhaniprasetyo31/analisis-penjualan-produk-indomie-di-warmindo-data-analyst-portofolio-dengan-sql-dan-power-bi-c7d38e0bafc8
